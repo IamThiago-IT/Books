@@ -1,3 +1,3 @@
 <h4 align="center">
-  #PDF-S
+  PDF-S
 </h4>
