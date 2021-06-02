@@ -8,7 +8,7 @@
 <h3>Javascript</h3>
 <h3>SQL</h3>
 <h3>PHP</h3>
-java
+<h3>java</h3>
 html
 css
 c
