@@ -7,4 +7,3 @@
    
 <h3>Javascript</h3>
 <h3>SQL</h3>
-<h3>PHP</h3>
